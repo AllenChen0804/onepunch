@@ -7,15 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		550644B822DB73B600B88776 /* God.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 550644B622DB73B600B88776 /* God.storyboard */; };
+		550644BA22DB73CE00B88776 /* Dragon.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 550644B922DB73CE00B88776 /* Dragon.storyboard */; };
+		550644BD22DB73E800B88776 /* Devel.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 550644BB22DB73E800B88776 /* Devel.storyboard */; };
+		550644BF22DB741E00B88776 /* Tiger.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 550644BE22DB741E00B88776 /* Tiger.storyboard */; };
+		551ECA3C22DF6A7D0057A62F /* comic.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 551ECA3A22DF6A7D0057A62F /* comic.storyboard */; };
 		553DD13E22D8CF85004C9866 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 553DD13D22D8CF85004C9866 /* AppDelegate.swift */; };
 		553DD14022D8CF85004C9866 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 553DD13F22D8CF85004C9866 /* SceneDelegate.swift */; };
 		553DD14222D8CF85004C9866 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 553DD14122D8CF85004C9866 /* ViewController.swift */; };
 		553DD14522D8CF85004C9866 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 553DD14322D8CF85004C9866 /* Main.storyboard */; };
 		553DD14722D8CF86004C9866 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 553DD14622D8CF86004C9866 /* Assets.xcassets */; };
 		553DD14A22D8CF86004C9866 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 553DD14822D8CF86004C9866 /* LaunchScreen.storyboard */; };
+		553DD15422D8D781004C9866 /* crayon_1-1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 553DD15322D8D781004C9866 /* crayon_1-1.ttf */; };
+		55B9E2D422DB68C7004CA85C /* Slevel.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55B9E2D222DB68C7004CA85C /* Slevel.storyboard */; };
+		55B9E2D822DB6BA2004CA85C /* Alevel.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55B9E2D722DB6BA2004CA85C /* Alevel.storyboard */; };
+		55B9E2DB22DB6D20004CA85C /* Blevel.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55B9E2D922DB6D20004CA85C /* Blevel.storyboard */; };
+		55B9E2DD22DB6DB6004CA85C /* Clevel.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55B9E2DC22DB6DB6004CA85C /* Clevel.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		550644B722DB73B600B88776 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = onepunch/Base.lproj/God.storyboard; sourceTree = "<group>"; };
+		550644B922DB73CE00B88776 /* Dragon.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Dragon.storyboard; sourceTree = "<group>"; };
+		550644BC22DB73E800B88776 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = onepunch/Base.lproj/Devel.storyboard; sourceTree = "<group>"; };
+		550644BE22DB741E00B88776 /* Tiger.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Tiger.storyboard; sourceTree = "<group>"; };
+		551ECA3B22DF6A7D0057A62F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = onepunch/Base.lproj/comic.storyboard; sourceTree = "<group>"; };
 		553DD13A22D8CF85004C9866 /* onepunch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = onepunch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		553DD13D22D8CF85004C9866 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		553DD13F22D8CF85004C9866 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +39,11 @@
 		553DD14622D8CF86004C9866 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		553DD14922D8CF86004C9866 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		553DD14B22D8CF86004C9866 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		553DD15322D8D781004C9866 /* crayon_1-1.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "crayon_1-1.ttf"; sourceTree = "<group>"; };
+		55B9E2D322DB68C7004CA85C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = onepunch/Base.lproj/Slevel.storyboard; sourceTree = "<group>"; };
+		55B9E2D722DB6BA2004CA85C /* Alevel.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Alevel.storyboard; sourceTree = "<group>"; };
+		55B9E2DA22DB6D20004CA85C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = onepunch/Base.lproj/Blevel.storyboard; sourceTree = "<group>"; };
+		55B9E2DC22DB6DB6004CA85C /* Clevel.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Clevel.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +60,15 @@
 		553DD13122D8CF85004C9866 = {
 			isa = PBXGroup;
 			children = (
+				551ECA3A22DF6A7D0057A62F /* comic.storyboard */,
+				550644BE22DB741E00B88776 /* Tiger.storyboard */,
+				550644BB22DB73E800B88776 /* Devel.storyboard */,
+				550644B922DB73CE00B88776 /* Dragon.storyboard */,
+				550644B622DB73B600B88776 /* God.storyboard */,
+				55B9E2D222DB68C7004CA85C /* Slevel.storyboard */,
+				55B9E2D722DB6BA2004CA85C /* Alevel.storyboard */,
+				55B9E2D922DB6D20004CA85C /* Blevel.storyboard */,
+				55B9E2DC22DB6DB6004CA85C /* Clevel.storyboard */,
 				553DD13C22D8CF85004C9866 /* onepunch */,
 				553DD13B22D8CF85004C9866 /* Products */,
 			);
@@ -58,6 +87,7 @@
 			children = (
 				553DD13D22D8CF85004C9866 /* AppDelegate.swift */,
 				553DD13F22D8CF85004C9866 /* SceneDelegate.swift */,
+				553DD15322D8D781004C9866 /* crayon_1-1.ttf */,
 				553DD14122D8CF85004C9866 /* ViewController.swift */,
 				553DD14322D8CF85004C9866 /* Main.storyboard */,
 				553DD14622D8CF86004C9866 /* Assets.xcassets */,
@@ -125,9 +155,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				55B9E2DB22DB6D20004CA85C /* Blevel.storyboard in Resources */,
+				553DD15422D8D781004C9866 /* crayon_1-1.ttf in Resources */,
+				550644BF22DB741E00B88776 /* Tiger.storyboard in Resources */,
+				55B9E2D822DB6BA2004CA85C /* Alevel.storyboard in Resources */,
+				55B9E2DD22DB6DB6004CA85C /* Clevel.storyboard in Resources */,
 				553DD14A22D8CF86004C9866 /* LaunchScreen.storyboard in Resources */,
+				550644B822DB73B600B88776 /* God.storyboard in Resources */,
+				55B9E2D422DB68C7004CA85C /* Slevel.storyboard in Resources */,
+				550644BD22DB73E800B88776 /* Devel.storyboard in Resources */,
 				553DD14722D8CF86004C9866 /* Assets.xcassets in Resources */,
 				553DD14522D8CF85004C9866 /* Main.storyboard in Resources */,
+				550644BA22DB73CE00B88776 /* Dragon.storyboard in Resources */,
+				551ECA3C22DF6A7D0057A62F /* comic.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -147,6 +187,30 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
+		550644B622DB73B600B88776 /* God.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				550644B722DB73B600B88776 /* Base */,
+			);
+			name = God.storyboard;
+			sourceTree = "<group>";
+		};
+		550644BB22DB73E800B88776 /* Devel.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				550644BC22DB73E800B88776 /* Base */,
+			);
+			name = Devel.storyboard;
+			sourceTree = "<group>";
+		};
+		551ECA3A22DF6A7D0057A62F /* comic.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				551ECA3B22DF6A7D0057A62F /* Base */,
+			);
+			name = comic.storyboard;
+			sourceTree = "<group>";
+		};
 		553DD14322D8CF85004C9866 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -161,6 +225,22 @@
 				553DD14922D8CF86004C9866 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		55B9E2D222DB68C7004CA85C /* Slevel.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				55B9E2D322DB68C7004CA85C /* Base */,
+			);
+			name = Slevel.storyboard;
+			sourceTree = "<group>";
+		};
+		55B9E2D922DB6D20004CA85C /* Blevel.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				55B9E2DA22DB6D20004CA85C /* Base */,
+			);
+			name = Blevel.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
